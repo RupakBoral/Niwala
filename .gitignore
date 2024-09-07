@@ -1,0 +1,8 @@
+node_modules
+.parcel-cache
+.vscode
+dist
+node_modules
+coverage
+sum.js
+sum.test.js
